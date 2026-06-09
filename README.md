@@ -15,6 +15,7 @@ Me especializo en el ecosistema **JavaScript**, disfrutando especialmente la ló
 
 ## 💻 Sobre mí
 
+* 🍸 **Más de 15 años de experiencia en Mixología y gestión de bares.** Esta mas reciente etapa de mi vida fue mi verdadero máster en habilidades blandas: resolución de conflictos en tiempo real, trabajo bajo presión extrema, rapidez mental y una atención al detalle obsesiva. Hoy, aplico ese "instinto de servicio" para entender las necesidades del usuario y resolver problemas técnicos con calma y eficiencia.
 * 🩰 **Bailarina clásica y moderna, dedique la primera etapa de mi vida a la danza espectáculo** Con participaciones en ocho Festivales de Viña del Mar y numerosos programas de la televisión chilena y española, conozco de primera mano lo que significa el trabajo en equipo, la sincronización perfecta y rendir al máximo nivel bajo la presión de la televisión en vivo.
 * 🏆 **Primera Miss Fitness en Chile (1996), representando a Chile en el mundial del mismo año en Buenos Aires** El deporte de alto rendimiento forjó en mí una mentalidad inquebrantable, orientada a objetivos y a no rendirme jamás frente a los desafíos (¡ni siquiera ante los bugs más difíciles!).
 * 🎬 **Estudié 4 años Dirección de Cine en España, realizando en Chile videos musicales especialmente para bailarines y cantantes** Esta formación me enseñó a ver el "cuadro completo" y a orquestar múltiples piezas complejas para crear una obra perfecta, una habilidad que hoy aplico directamente a la arquitectura de software.

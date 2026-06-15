@@ -1,15 +1,16 @@
 # Hola, soy Susana Gutiérrez (SuPasionProducciones) 👋
+Bienvenida/o a mi espacio de desarrollo.
 
-**Desarrolladora Full-Stack JavaScript | Creatividad, Disciplina y Lógica Backend**
+Soy una desarrolladora **Full Stack Trainee**, recientemente egresada del Bootcamp de Desarrollo de Aplicaciones Full Stack JavaScript.
 
-Soy una profesional con una trayectoria fuera de lo común. He pisado los escenarios más grandes, he dirigido cámaras y he forjado una disciplina de alto rendimiento. Hoy, canalizo toda esa resiliencia, adaptabilidad y enfoque técnico hacia el desarrollo de software.
+Mi trayectoria es algo fuera de lo común. Vengo de un camino profesional diverso que incluye artes escénicas, mundo audiovisual y hotelería. He pisado los escenarios más grandes, he dirigido cámaras, he creado mixologías extravagantes para grandes hoteles. Esta trayectoria me ha enseñado disciplina, resiliencia y la capacidad de trabajar en equipo y bajo presión. Hoy, estoy volcando toda esa experiencia y mi pasión por el aprendizaje constante en el mundo del desarrollo web.
 
-Me especializo en el ecosistema **JavaScript**, disfrutando especialmente la lógica del lado del servidor. Desde coordinar bases de datos hasta asegurar la estabilidad de una API, aplico la misma rigurosidad y pasión que me llevó a destacar en las artes y el deporte.
+Actualmente, estoy en mi etapa de crecimiento profesional, buscando mi primera oportunidad para aportar, aprender de equipos experimentados y seguir consolidando mis conocimientos técnicos.
 
 ## 🚀 Tecnologías y Herramientas
-
+He trabajado y practicado con:
 * **Backend:** Node.js, Express.js
-* **Base de Datos:** PostgreSQL, Sequelize (ORM)
+* **Base de Datos:** PostgreSQL, SQL, Sequelize (ORM)
 * **Frontend:** JavaScript (ES6+), HTML5, CSS3, Bootstrap, Handlebars
 * **Herramientas & Flujo de Trabajo:** Git, GitHub, Visual Studio Code, Thunder client, NPM
 
@@ -21,6 +22,9 @@ Me especializo en el ecosistema **JavaScript**, disfrutando especialmente la ló
 * 🎬 **Estudié 4 años Dirección de Cine en España, realizando en Chile videos musicales especialmente para bailarines y cantantes** Esta formación me enseñó a ver el "cuadro completo" y a orquestar múltiples piezas complejas para crear una obra perfecta, una habilidad que hoy aplico directamente a la arquitectura de software.
 * 🚴‍♀️ Acostumbrada a optimizar rutas, gestionar tiempos y resolver problemas en tiempo real en terreno.
 * 🧠 Me apasiona la lógica backend: hacer que las bases de datos se comuniquen de forma impecable y aplicar programación defensiva para construir servidores robustos.
+
+### 📈 Mi camino
+Estoy en constante aprendizaje, practicando cada día y construyendo proyectos para aplicar lo que he estudiado. Me motiva la posibilidad de resolver problemas y crear soluciones digitales que aporten valor.
 
 ## 📫 Cómo contactarme
 
